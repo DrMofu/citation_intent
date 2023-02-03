@@ -27,7 +27,7 @@ import time
 
 from sklearn.metrics import f1_score,precision_score,recall_score,accuracy_score
 
-CITATION_FILE = "/nas/ckgfs/pubgraphs/xinweidu/semantic/citations/onehop/known/citation.txt"
+CITATION_FILE = "../data/citation.txt"
 DATASET = "Origin" # Resplit
 
 # citation features
